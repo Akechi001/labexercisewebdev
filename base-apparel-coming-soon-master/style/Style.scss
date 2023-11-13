@@ -1,0 +1,15 @@
+
+
+.divterluar{
+  display: flex;
+  flex-direction: row;
+  border: black solid;
+}
+
+.container-kiri{
+  border: black solid;
+  display: flex;
+  flex-direction: column;
+  background-image: url("../images/bg-pattern-desktop.svg");
+}
+
